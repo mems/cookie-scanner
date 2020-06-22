@@ -1,0 +1,5 @@
+.idea
+node_modules
+output
+*.playscript.js
+!example.playscript.js
